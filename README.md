@@ -27,7 +27,7 @@
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
   <a href="https://devlogowen.tistory.com/"><img src="https://img.shields.io/badge/tistory-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://Tistory.io/@kyu0918"/></a>&nbsp
-  <a href="https://www.instagram.com/sch/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
+  
 </p>
 
 <br>
